@@ -7,6 +7,7 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+intro.ipynb
 
 # Python
 __pycache__/
